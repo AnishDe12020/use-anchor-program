@@ -1,0 +1,23 @@
+{
+  "name": "use-anchor-program",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc --build && yalc publish --build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "@solana/wallet-adapter-react": "^0.15.28"
+  },
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0"
+  },
+  "yalcSig": "73cd311a2efcbe8002d0b5dc8e27eaf7"
+}

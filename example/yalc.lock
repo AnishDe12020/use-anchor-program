@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "use-anchor-program": {
+      "signature": "73cd311a2efcbe8002d0b5dc8e27eaf7",
+      "file": true
+    }
+  }
+}
